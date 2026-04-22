@@ -1,0 +1,76 @@
+Outline for ola2
+
+1. HEADER
+• Site Title: 'NinYo Sene Oudom'
+• Short tagline: 'Computer Science Student' / 'Welcome to my homepage'
+
+2. NAVIGATION BAR
+• Home (OLA1) -> ola1.html
+• CV (OLA2) -> ola2.html
+
+3. MAIN CONTENT
+
+About Me
+   - Introduction paragraph (major, school, goals)
+
+Photo Section
+   - Image
+   - Caption and credit
+
+My Hobbies
+   - Unordered list with custom bullet style
+
+My Favorites Table
+   - Table using thead and tbody
+   - Example columns: Category | Favorite | Notes
+
+Bookmark Feature
+   - 'Back to Top' anchor link
+
+4. FOOTER
+• Copyright
+• Contact information
+• Optional social links
+
+CV PAGE
+
+1. HEADER
+• Title: 'My CV'
+
+2. NAVIGATION BAR
+• Home (OLA1) -> ola1.html
+• CV (OLA2) -> ola2.html
+
+3. MAIN CONTENT
+
+Curriculum Vitae (H1)
+Education (H2)
+   - School, degree, graduation date
+   - Relevant courses
+Skills (H2)
+   - Programming languages
+   - Tools and technologies
+Work Experience (Optional)
+   - Job title, company, dates
+   - Responsibilities
+Research / Scholarly Activity (Optional)
+   - Projects or presentations
+Awards (Optional)
+   - Honors and scholarships
+Bookmark Feature
+   - 'Back to Top' anchor link
+
+4. FOOTER
+• Copyright
+• Contact information
+
+REFLECTION
+========================================
+What changed and why
+   I changed the page layout to keep both pages consistent using the same header/nav/footer so navigation is easier.
+
+Hardest part and why
+   The hardest part was organizing the sections and making the table and list style look clean without breaking the layout.
+
+One mistake and how it was fixed
+   My navigation links were broken because the file names didn’t match. I fixed it by renaming files and updating href paths.
